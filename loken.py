@@ -36,7 +36,7 @@ def tes():
 	print("\033[1;90m       ╭┻╮"+Fore.RED+"╱\033[1;97m╰╮╰━━╯╭╯"+Fore.RED+"╲\033[1;97m┊\033[1;93m ║		 "+Fore.GREEN+"║\033[1;97m │ ││ ││  └─┐")
 	print(""+Fore.BLACK+"       ╰┳┫"+Fore.RED+"▔╲\033[1;97m╰┳━━┳╯"+Fore.RED+"╱▔\033[1;97m┊\033[1;93m ║		 \033[1;92m╩\033[1;97m └─┘└─┘┴─┘└─┘")
 	print("       ┈┃╰━━"+Fore.RED+"╲▕╲╱▏"+Fore.RED+"╱"+Fore.WHITE+"━━━┬╨╮\033[1;90m────────────────────────────────────────────")
-	print("\033[1;97m       ┈╰━━╮"+Fore.RED+"┊▕╱╲▏┊"+Fore.WHITE+"╭━━┴╥╯\033[1;96m["+Back.WHITE+Fore.BLACK+"Copyright By ©AmmarBN ©2022 Sunday 20 Feb \033[00m"+Fore.RED+"\033[1;96m]")
+	print("\033[1;97m       ┈╰━━╮"+Fore.RED+"┊▕╱╲▏┊"+Fore.WHITE+"╭━━┴╥╯\033[1;96m["+Back.WHITE+Fore.BLACK+"Copyright By ©AmmarBN ©2022 Tuesday 1 March \033[00m"+Fore.RED+"\033[1;96m]")
 	print("")
 	print(""+Fore.WHITE+"       Time Local:\033[1;92m"+localtime)
 	print(""+Fore.WHITE+"       Youtube:\033[1;92mbit.ly/AmmarExecuted")
