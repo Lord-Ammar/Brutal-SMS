@@ -37,7 +37,7 @@ def sms2():
 try:
 	import requests as reek
 	req=reek.Session()
-except ModuleNotFoundError:os.system("python -m pip install requests") ; os.system(f"python {sys.argv[0]}")
+except ModuleNotFoundError:os.system("pip install requests && pip2 install requests && pip install bs4 && pip2 install bs4 && pip install colorama && pip2 install colorama") ; os.system(f"python {sys.argv[0]}")
 class nyepam:
 	def __init__(self,_8,_08,_62):
 		self._8,self._08,self._62=_8,_08,_62
