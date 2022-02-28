@@ -1,3 +1,5 @@
+#!usr/bin/bash
+#ini cuma buat install module yg eror
 echo -e "[•] Installing Data..."
 pkg update &> /dev//null
 pkg upgrade &> /dev//null
