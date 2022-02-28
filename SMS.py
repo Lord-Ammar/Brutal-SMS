@@ -1,8 +1,5 @@
 #!/bin/urs/python
-#mau recode ya?
-#recode aje nyet
-#ambil data nya trus ketik sendiri monggo lu pinter
-#copas tolol
+#Jangan Decode Njink:)
 
 #warna
 b='\033[34;1m' #biru
