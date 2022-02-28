@@ -41,6 +41,6 @@ def tes():
 	print(""+Fore.WHITE+"       Time Local:\033[1;92m"+localtime)
 	print(""+Fore.WHITE+"       Youtube:\033[1;92mbit.ly/AmmarExecuted")
 	print(""+Fore.WHITE+"       You Ip:\033[1;92m"+IP)
-	print(""+Fore.WHITE+"       User:\033[1;92m37 user")
+	print(""+Fore.WHITE+"       User:\033[1;92m69 user")
 	print("")
 tes()
